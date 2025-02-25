@@ -1,1 +1,1 @@
-nginx:latest registry.cn-hangzhou.aliyuncs.com/gkzx2024/nginx:latest
+postgres:15-alpine crpi-pp0i097gymw491nk.cn-shanghai.personal.cr.aliyuncs.com/wachiai/postgres:15-alpine
